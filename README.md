@@ -57,10 +57,6 @@ Eu sou o Renan Bortolato, Eu atualmente estou cursando Estudando programação. 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
-<img src="https://raw.githubusercontent.com/RenanBortolato/RenanBortolato/blob/output/snake.svg" alt="Snake animation" />
-    
-###
-
 <!-- <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
