@@ -58,6 +58,8 @@ Eu sou o Renan Bortolato, Eu atualmente estou cursando Estudando programação. 
 </span>
 
 <img src="https://raw.githubusercontent.com/RenanBortolato/RenanBortolato/blob/output/snake.svg" alt="Snake animation" />
+    
+###
 
 <!-- <h4> Other Tools and Technologies </h4>
 <span>
